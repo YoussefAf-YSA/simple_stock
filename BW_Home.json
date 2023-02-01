@@ -1,2 +1,44 @@
-[{
-}]
+[
+  {
+    "name": "Arcane",
+    "cover": "https://egydead.live/wp-content/uploads/2021/11/%D9%85%D8%B3%D9%84%D8%B3%D9%84-Arcane-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%A7%D9%88%D9%84.jpg",
+    "story":"وسط صراع مرير يفصل بين مدينتي بيلتوفر و زون المترابطتين تقاتل أختان على طرفي نقيض في حرب بين التقنيات السحرية والمعتقدات المتضاربة",
+    "url": "/season/مسلسل-arcane-الموسم-الاول-مترجم-كامل/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_arcane.mp4"
+  },
+  {
+    "name": "American Psycho",
+    "cover": "https://egydead.live/wp-content/uploads/2019/09/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%81%D9%8A%D9%84%D9%85-American-Psycho-2000-%D9%85%D8%AA%D8%B1%D8%AC%D9%85.jpg",
+    "story":"يخفي باتريك باتمان ، وهو مسؤول تنفيذي مصرفي ثري في مدينة نيويورك ، الأناقة البديلة له من مختل عقليا من زملائه في العمل وأصدقائه بينما يتعمق أكثر في تخيلاته العنيفة والمتحمسة.",
+    "url": "/مشاهدة-فيلم-american-psycho-2000-مترجم/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_american_psycho.mp4"
+  },
+  {
+    "name": "Breaking Bad",
+    "cover": "https://egydead.live/wp-content/uploads/2019/06/%D9%85%D8%B3%D9%84%D8%B3%D9%84-Breaking-Bad-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%A7%D9%88%D9%84.jpg",
+    "story":"مدرس كيمياء في مدرسة ثانوية على وشك الوفاة بسبب السرطان، يشترك مع طالب سابق في صناعة وبيع عقار الميث لتأمين مستقبل أسرته.",
+    "epList": "/season/مسلسل-breaking-bad-الموسم-الاول-مترجم-كامل/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_breaking_bad.mp4"
+  },
+  {
+    "name": "Vinland Saga Season 2",
+    "cover": "https://egydead.live/wp-content/uploads/2023/01/%D8%A7%D9%86%D9%85%D9%8A-Vinland-Saga-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%83%D8%A7%D9%85%D9%84.jpg",
+    "story":"تبدأ الألفية الجديدة في الجزء الجنوبي من شبه جزيرة جوتلاند في الدنمارك. بعد وفاة عدوه القديم أسكيلاد ، فقد ثورفين هدفه في الحياة. تم شراؤه من قبل مالك الأرض كيتيل باعتباره ”عبدًا“ وعمل في أعمال استصلاح الأراضي في مزرعته. يلتقي ثورفين هناك بشاب اسمه إينار، الذي كان أيضًا في نفس وضعه. أدى لقاء آينار إلى مواجهة ثورفين للخطايا التي ارتكبها وبدأ يبحث عن مغزى آخر للحياة. من ناحية أخرى، حاول كانوت، الذي أصبح ملك إنجلترا، توسيع أراضيه لإقامة ”أرض الميعاد“. هذه ”قصة المحارب الحقيقي (الملحمة)“. ”قصة الغفران والخلاص (الملحمة)“ التي تقع وراء المقدمة.",
+    "epList": "/season/انمي-vinland-saga-الموسم-الثاني-مترجم-كامل/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_vinland_saga.mp4"
+  },
+  {
+    "name": "Game of Thrones",
+    "cover": "https://egydead.live/wp-content/uploads/2019/07/%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D9%88%D8%A7%D8%B3%D9%85-%D9%85%D8%B3%D9%84%D8%B3%D9%84-Game-of-Thrones-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D9%83%D8%A7%D9%85%D9%84.jpg",
+    "story":"سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض (ويستروس) الخرافية، باستخدام الجيوش والمكائد السياسية والجنسية",
+    "epList": "/season/مسلسل-game-of-thrones-الموسم-الاول-كامل/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_game_of_thrones.mp4"
+  },
+  {
+    "name": "Rick and Morty",
+    "cover": "https://egydead.live/wp-content/uploads/2018/06/Rick-and-Morty-S01.jpg",
+    "story":"العالم ريك، عبقري ولكنه سكّير، يختطف حفيده المراهق وكثير القلق، مورتي، للاستمتاع بمغامرات جامحة في عوالم أخرى وأكوان موازية",
+    "epList": "/season/مسلسل-rick-and-morty-الموسم-الاول-كامل/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_rick_and_morty.mp4"
+  }
+]
