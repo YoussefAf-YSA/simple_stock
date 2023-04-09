@@ -1,44 +1,37 @@
 [
   {
-    "name": "Arcane",
-    "cover": "https://egydead.live/wp-content/uploads/2021/11/%D9%85%D8%B3%D9%84%D8%B3%D9%84-Arcane-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%A7%D9%88%D9%84.jpg",
-    "story":"وسط صراع مرير يفصل بين مدينتي بيلتوفر و زون المترابطتين تقاتل أختان على طرفي نقيض في حرب بين التقنيات السحرية والمعتقدات المتضاربة",
-    "url": "/season/مسلسل-arcane-الموسم-الاول-مترجم-كامل/",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_arcane.mp4"
+    "name": "Jigokuraku",
+    "cover": "https://witanime.com/wp-content/uploads/2023/03/Jigokuraku-413x559.jpg",
+    "story":"القصة تتحدث عن نينجا يتم إتهامه بالخيانة مما أدى إلى إصدار حكم الإعدام عليه ولإستعادة حريته سيسافر إلى جزيرة مخفية بعيدة ليجد إكسير يجعله خالدًا.",
+    "epList": "/anime/jigokuraku/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_jujutsu_kaisen.mp4"
   },
   {
-    "name": "American Psycho",
-    "cover": "https://egydead.live/wp-content/uploads/2019/09/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%81%D9%8A%D9%84%D9%85-American-Psycho-2000-%D9%85%D8%AA%D8%B1%D8%AC%D9%85.jpg",
-    "story":"يخفي باتريك باتمان ، وهو مسؤول تنفيذي مصرفي ثري في مدينة نيويورك ، الأناقة البديلة له من مختل عقليا من زملائه في العمل وأصدقائه بينما يتعمق أكثر في تخيلاته العنيفة والمتحمسة.",
-    "url": "/مشاهدة-فيلم-american-psycho-2000-مترجم/",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_american_psycho.mp4"
+    "name": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "cover": "https://witanime.com/wp-content/uploads/2023/03/Shingeki-no-Kyojin-The-Final-Season-Kanketsu-hen-413x559.jpg",
+    "story":"منذ مائة عام تقريبًا ظهر عدو جديد للبشرية (العمالقة) وكان عدوه الخارق الذي استطاع جر الجنس البشري إلى حافة الإنقراض، ومن أجل الهرب منهم تمكن البشر من الإحتماء وراء ثلاثة جدران، (جدار ماريا) ، (جدار روز) ، (جدار سينا) ، ولكن بعد مرور مائة سنة يتعرض البشر للهجوم من عملاقين خاصين (عملاق ضخم ، وعملاق مدرّع) ويدمران الجدار ويدخلان إلى مدينة حدودية بجانب عدد ضخم من العمالقة، (إيرين ، ميكاسا، ارمين ) أبطال هذه القصة كانوا يعيشون في هذه المدينة ويتمكنون من الهرب منها، ويهرب من تبقى من البشر ويتركون جدار ماريا وكل ما يحميه وراؤهم متخلين بذلك عن ثلث أراضيهم وما يقارب خمس تعدادهم السكاني، ومن هنا تبدأ معركتنا ضد هؤلاء العمالقة.",
+    "epList": "/anime/shingeki-no-kyojin-the-final-season-kanketsu-hen/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_attack_on_titans_s4.mp4"
   },
   {
-    "name": "Breaking Bad",
-    "cover": "https://egydead.live/wp-content/uploads/2019/06/%D9%85%D8%B3%D9%84%D8%B3%D9%84-Breaking-Bad-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%A7%D9%88%D9%84.jpg",
-    "story":"مدرس كيمياء في مدرسة ثانوية على وشك الوفاة بسبب السرطان، يشترك مع طالب سابق في صناعة وبيع عقار الميث لتأمين مستقبل أسرته.",
-    "url": "/season/مسلسل-breaking-bad-الموسم-الاول-مترجم-كامل/",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_breaking_bad.mp4"
+    "name": "Boruto: Naruto Next Generations",
+    "cover": "https://witanime.com/wp-content/uploads/2021/06/Boruto-Naruto-Next-Generations-Next-Arc-413x559.jpg"
+    "story":"ناروتو كان شينوبي شاب أنجز حلمه ليكون النينجا الأعظم في قريته وحصل على أعلى منصب وهو الهوكاجي لكن هذه ليست قصته ، جيل نينجا جديد مستعد لأخذ المنصة تحت قيادة أبن ناروتو الذي يدعى بوروتو !.",
+    "epList": "/anime/boruto-naruto-next-generations/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_boruto.mp4"
+  },
+  {
+    "name": "Chainsaw Man",
+    "cover": "https://witanime.com/wp-content/uploads/2022/09/Chainsaw-Man-413x559.png",
+    "story":"في عالم مليئ بالشياطين و البشر يوجد فتى اسمه دينجي ويدعى بـ رجل المنشار والذي يعمل لدى عصابة ياكوزا ليسدد ديون ابيه السابقة ولكن تغدر فيه العاصبة وتقتله ولكن يعود دينجي للحياة وتتغير حياة دينجي البائسة بعد إندماجه مع حيوانه الأليف كلب المنشار المسمّى بوتشيتا والآن فهو يعيش في مدينة كبيرة كصائد شياطين رسمي ولكن هناك الكثير ليتعلمه بشأن وظيفته الجديدة وقوة المنشار.",
+    "epList": "/anime/chainsaw-man/",
+    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_chainsawman.mp4"
   },
   {
     "name": "Vinland Saga Season 2",
-    "cover": "https://egydead.live/wp-content/uploads/2023/01/%D8%A7%D9%86%D9%85%D9%8A-Vinland-Saga-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%83%D8%A7%D9%85%D9%84.jpg",
+    "cover": "https://witanime.com/wp-content/uploads/2023/01/Vinland-Saga-Season-2-413x559.jpg",
     "story":"تبدأ الألفية الجديدة في الجزء الجنوبي من شبه جزيرة جوتلاند في الدنمارك. بعد وفاة عدوه القديم أسكيلاد ، فقد ثورفين هدفه في الحياة. تم شراؤه من قبل مالك الأرض كيتيل باعتباره ”عبدًا“ وعمل في أعمال استصلاح الأراضي في مزرعته. يلتقي ثورفين هناك بشاب اسمه إينار، الذي كان أيضًا في نفس وضعه. أدى لقاء آينار إلى مواجهة ثورفين للخطايا التي ارتكبها وبدأ يبحث عن مغزى آخر للحياة. من ناحية أخرى، حاول كانوت، الذي أصبح ملك إنجلترا، توسيع أراضيه لإقامة ”أرض الميعاد“. هذه ”قصة المحارب الحقيقي (الملحمة)“. ”قصة الغفران والخلاص (الملحمة)“ التي تقع وراء المقدمة.",
-    "url": "/season/انمي-vinland-saga-الموسم-الثاني-مترجم-كامل/",
+    "url": "/anime/vinland-saga-season-2/",
     "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_vinland_saga.mp4"
-  },
-  {
-    "name": "Game of Thrones",
-    "cover": "https://egydead.live/wp-content/uploads/2019/07/%D8%AC%D9%85%D9%8A%D8%B9-%D9%85%D9%88%D8%A7%D8%B3%D9%85-%D9%85%D8%B3%D9%84%D8%B3%D9%84-Game-of-Thrones-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D9%83%D8%A7%D9%85%D9%84.jpg",
-    "story":"سبع عائلات نبيلة تتصارع من أجل السيطرة على أرض (ويستروس) الخرافية، باستخدام الجيوش والمكائد السياسية والجنسية",
-    "url": "/season/مسلسل-game-of-thrones-الموسم-الاول-كامل/",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_game_of_thrones.mp4"
-  },
-  {
-    "name": "Rick and Morty",
-    "cover": "https://egydead.live/wp-content/uploads/2018/06/Rick-and-Morty-S01.jpg",
-    "story":"العالم ريك، عبقري ولكنه سكّير، يختطف حفيده المراهق وكثير القلق، مورتي، للاستمتاع بمغامرات جامحة في عوالم أخرى وأكوان موازية",
-    "url": "/season/مسلسل-rick-and-morty-الموسم-الاول-كامل/",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/v_rick_and_morty.mp4"
   }
 ]
