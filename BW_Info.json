@@ -2,5 +2,6 @@
    "version":"1.0",
    "host":"https://witanime.com",
    "update":"",
-   "ads":"true"
+   
+   "ads":"false"
 }
