@@ -1,53 +1,5 @@
 [
   {
-    "name": "Tokyo Ghoul",
-    "cover": "https://gogocdn.net/images/summer/Tokyo%20Ghoul.jpg",
-    "year": "2014",
-    "story":"Tokyo is haunted by mysterious ghouls who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like he is, at the café he frequents. Little does Kaneki realize that his fate will change overnight.",
-    "epList": "/category/tokyo-ghoul",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_tokyo_ghoul.mp4"
-  },
-  {
-    "name": "One Punch Man",
-    "cover": "https://gogocdn.net/images/upload/76049.jpg",
-    "year": "2015",
-    "story":"In this new action-comedy, everything about a young man named Saitama screams AVERAGE, from his lifeless expression, to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's actually a superhero that's looking for tough opponents! The problem is, every time he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!",
-    "epList": "/category/one-punch-man",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_one_punch_man.mp4"
-  },
-  {
-    "name": "Fate/stay night: Unlimited Blade Works (TV)",
-    "cover": "https://gogocdn.net/images/fall/Fate%20Stay%20Night%202014.jpg",
-    "year": "2014",
-    "story":"I am the bone of my sword. Steel is my body, and fire is my blood. I have created over a thousand blades. Unknown to death. Nor known to life. Have withstood pain to create many weapons. Yet, those hands will never hold anything. So as I pray, Unlimited Blade Works. — from introEmiya Shirou finds himself an unwilling participant in a deadly competition where seven Mages summon heroic spirits as servants to duel each other to the death. They compete for the chance to make a wish from theHoly Grail, which has the power to grant any wish. Shirou is unskilled as a mage and knows nothing of the Holy Grail War, but he and his servant, Saber, enter into a temporary partnership with another Mage, Toosaka Rin. However, problems arise between Shirou and Rin's servant, Archer, who seems to despise him.",
-    "epList": "/category/fatestay-night-unlimited-blade-works-tv",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_fate_stay_night.mp4"
-  },
-  {
-    "name": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
-    "cover": "https://gogocdn.net/cover/kimetsu-no-yaiba-katanakaji-no-sato-hen-1680122874.png",
-    "year": "2023",
-    "story":"Since ancient times, rumors have abounded of man-eating demons lurking in the woods. Because of this, the local townsfolk never venture outside at night. Legend has it that a demon slayer also roams the night, hunting down these bloodthirsty demons. For young Tanjirou, these rumors will soon to become his harsh reality... Ever since the death of his father, Tanjirou has taken it upon himself to support his family. Although their lives may be hardened by tragedy, they've found happiness. But that ephemeral warmth is shattered one day when Tanjirou finds his family slaughtered and the lone survivor, his sister Nezuko, turned into a demon. To his surprise, however, Nezuko still shows signs of human emotion and thought... Thus begins Tanjirou's quest to fight demons and turn his sister human again.",
-    "epList": "/category/kimetsu-no-yaiba",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_demon_slayer_s3.mp4"
-  },
-  {
-    "name": "Bungou Stray Dogs",
-    "cover": "https://gogocdn.net/cover/bungou-stray-dogs.jpg",
-    "year": "2016",
-    "story":"The battle action story Bungou Stray Dogs centers around a league of literary figures with supernatural powers. For example, in real life, Akutagawa Ryuunosuke wrote acclaimed stories that inspired Kurosawa Akira's Rashoumon film and the Aoi Bungaku Series anime's Jigoku Hen (Hell Screen) arc. In Bungou Stray Dogs, he has the power to transform and manipulate his cloak into a monster-like entity. Together, these writers solve mysteries as part of the Armed Detective Agency.",
-    "epList": "/category/bungou-stray-dogs",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_bungou_stray_dogs.mp4"
-  },
-  {
-    "name": "Akame ga Kill!",
-    "cover": "https://gogocdn.net/images/summer/akame_ga_kill.jpg",
-    "year": "2014",
-    "story":"Tatsumi is a fighter who sets off to the Capital in search of a way to make money to assist his poverty-stricken village. After falling victim to a robbery by a woman and losing all his money, Tatsumi is taken in by a noble aristocratic girl by the name of Aria. In the following night, Aria's place is attacked by a group of assassins known as Night Raid. While Tatsumi at first tries to defend Aria from the assassin Akame, another member of the group stops the fight. She reveals that Aria has kidnapped several villagers and tortures them for fun. Shocked upon seeing the tortured villagers — including his two best friends, Tatsumi kills Aria. Seeing potential in Tatsumi, Night Raid invites the boy to their group warning that regardless of how they want to assassin corrupted people, they are murderers. Tatsumi accepts in order to become stronger and protect his village. In their fight against the Empire, Night Raid starts antagonizing an organization known as The Jaegars led by Esdeath, the most powerful fighter in the Empire. As both Night Raid and Jaegars suffer losses, the Empire forms a new secret police force, the Wild Hunt, with the son of the Prime Minister, Shura, as its leader, to bolster its law reinforcements, though Wild Hunt heavily abuses its new authority by killing innocent civilians for fun.",
-    "epList": "/category/akame-ga-kill",
-    "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_akami_ga_kil.mp4"
-  },
-  {
     "name": "Jigokuraku",
     "cover": "https://gogocdn.net/cover/jigokuraku-1680122271.png",
     "year":"2023",
@@ -64,11 +16,11 @@
     "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_jujutsu_kaisen.mp4"
   },
   {
-    "name": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
-    "cover": "https://gogocdn.net/cover/shingeki-no-kyojin-the-final-season-kanketsu-hen-1676446664.png",
-    "year": "2023",
-    "story":"The last part of the final season of Attack On Titan, concluding the ending arc story of Eren and the others.",
-    "epList": "/category/shingeki-no-kyojin-the-final-season-kanketsu-hen",
+    "name": "Shingeki no Kyojin: The Final Season Part 2",
+    "cover": "https://gogocdn.net/cover/shingeki-no-kyojin-the-final-season-part-2.png",
+    "year": "2022",
+    "story":"Second part of Shingeki no Kyojin: The Final Season.",
+    "epList": "/category/shingeki-no-kyojin-the-final-season-part-2",
     "video": "https://raw.githubusercontent.com/YoussefAf-YSA/simple_stock/main/e_attack_on_titans_s4.mp4"
   },
   {
