@@ -1,0 +1,67 @@
+[
+    {
+        "Title":"Top in MAL",
+        "List":[
+            {
+                "name": "Sousou no Frieren",
+                "cover": "https://gogocdn.net/cover/sousou-no-frieren-1696000134.png",
+                "year":"2023",
+                "epList":"/category/sousou-no-frieren"
+            },
+            {
+                "name": "Fullmetal Alchemist: Brotherhood",
+                "cover": "https://gogocdn.net/images/anime/F/fullmetal-alchemist-brotherhood.jpg",
+                "year":"2009",
+                "epList":"/category/fullmetal-alchemist-brotherhood"
+            },
+            {
+                "name": "Steins;Gate",
+                "cover": "https://gogocdn.net/images/anime/S/Steins-Gate.jpg",
+                "year":"2011",
+                "epList":"/category/steinsgate"
+            },
+            {
+                "name": "Gintama",
+                "cover": "https://gogocdn.net/images/anime/G/gintama.jpg",
+                "year":"2006",
+                "epList":"/category/gintama"
+            },
+            {
+                "name": "Shingeki no Kyojin",
+                "cover": "https://gogocdn.net/images/anime/Shingeki-no-Kyojin.jpg",
+                "year":"2013",
+                "epList":"/category/shingeki-no-kyojin"
+            },
+            {
+                "name": "Hunter x Hunter",
+                "cover": "https://gogocdn.net/images/anime/hunter-x-hunter-2011.jpg",
+                "year":"2011",
+                "epList":"/category/hunter-x-hunter-2011"
+            },
+            {
+                "name": "Bleach: Sennen Kessen-hen",
+                "cover": "https://gogocdn.net/cover/bleach-sennen-kessen-hen-1664387572.png",
+                "year":"2022",
+                "epList":"/category/bleach-sennen-kessen-hen"
+            },
+            {
+                "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+                "cover": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+                "year":"2019",
+                "epList":"/category/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen"
+            },
+            {
+                "name": "Fruits Basket: The Final",
+                "cover": "https://gogocdn.net/cover/fruits-basket-the-final.png",
+                "year":"2021",
+                "epList":"/category/fruits-basket-the-final"
+            },
+            {
+                "name": "Koe no Katachi",
+                "cover": "https://gogocdn.net/cover/koe-no-katachi-movie.png",
+                "year":"2016",
+                "epList":"/category/koe-no-katachi-movie"
+            }
+        ]
+    }
+]
