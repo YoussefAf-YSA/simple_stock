@@ -63,5 +63,76 @@
                 "epList":"/category/koe-no-katachi-movie"
             }
         ]
+    },
+    {
+        "Title":"Wholesome Romance",
+        "List":[
+            {
+                "name": "Tsurezure Children",
+                "cover": "https://gogocdn.net/cover/tsurezure-children.png",
+                "year":"2017",
+                "epList":"/category/tsurezure-children"
+            },
+            {
+                "name": "Tonikaku Kawaii",
+                "cover": "https://gogocdn.net/cover/tonikaku-kawaii.png",
+                "year":"2020",
+                "epList":"/category/tonikaku-kawaii"
+            },
+            {
+                "name": "Tamako Love Story",
+                "cover": "https://gogocdn.net/images/fall/Tamako%20Love%20Story.jpg",
+                "year":"2014",
+                "epList":"/category/tamako-love-story"
+            },
+            {
+                "name": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+                "cover": "https://gogocdn.net/cover/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai.png",
+                "year":"2018",
+                "epList":"/category/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+            },
+            {
+                "name": "Komi-san wa, Comyushou desu.",
+                "cover": "https://gogocdn.net/cover/komi-san-wa-comyushou-desu.png",
+                "year":"2021",
+                "epList":"/category/komi-san-wa-comyushou-desu"
+            },
+            {
+                "name": "Chuunibyou demo Koi ga Shitai!",
+                "cover": "https://cdn.myanimelist.net/images/anime/12/46931.jpg",
+                "year":"2012",
+                "epList":"/category/chuunibyou-demo-koi-ga-shitai"
+            },
+            {
+                "name": "Yamada-kun to Lv999 no Koi wo Suru",
+                "cover": "https://gogocdn.net/cover/yamada-kun-to-lv999-no-koi-wo-suru-1680203993.png",
+                "year":"2023",
+                "epList":"/category/yamada-kun-to-lv999-no-koi-wo-suru"
+            },
+            {
+                "name": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+                "cover": "https://cdn.myanimelist.net/images/anime/1295/106551.jpg",
+                "year":"2019",
+                "epList":"/category/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen"
+            },
+            {
+                "name": "Tomo-chan wa Onnanoko!",
+                "cover": "https://gogocdn.net/cover/tomo-chan-wa-onnanoko-1672333039.png",
+                "year":"2023",
+                "epList":"/category/tomo-chan-wa-onnanoko"
+            },
+            {
+                "name": "Osake wa Fuufu ni Natte kara",
+                "cover": "https://gogocdn.net/cover/osake-wa-fuufu-ni-natte-kara.png",
+                "year":"2017",
+                "epList":"/category/osake-wa-fuufu-ni-natte-kara"
+            },
+            {
+                "name": "Okusama ga Seitokaichou!",
+                "cover": "https://gogocdn.net/images/upload/okusama_ga_seitokaichou.jpg",
+                "year":"2015",
+                "epList":"/category/okusama-ga-seitokaichou-"
+            }
+        ]
     }
 ]
