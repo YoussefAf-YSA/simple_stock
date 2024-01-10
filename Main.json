@@ -6,5 +6,5 @@
    "host":"https://gogoanime3.net",
    "mainSite":"https://gogoanime3.net/",
    "ajax":"https://ajax.gogo-load.com/ajax",
-   "ads":true
+   "ads":false
 }
